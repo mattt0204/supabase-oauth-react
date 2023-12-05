@@ -1,8 +1,10 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+[react 튜토리얼](https://supabase.com/docs/guides/getting-started/tutorials/with-react) + SNS Login Google Oauth
+localStorage에 token 저장
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[gcp에서 client 발급 및 supabase 연동하기](https://supabase.com/docs/learn/auth-deep-dive/auth-google-oauth)
+
+```
+npm run dev
+```
